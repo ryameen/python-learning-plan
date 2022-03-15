@@ -1,0 +1,66 @@
+Week 1
+
+Day 1:
+Execute Python
+output
+variable
+variable type
+math
+input
+conditional
+
+Day 2:
+list (add, remove etc. to list) (2 hours)
+for loop (2 hours)
+while loop (2 hours)
+function (2 hours)
+
+Day: 3:
+Solve Problems
+
+Day: 4:
+bit harder problems (2-3 hours)
+medium range problems (3-4 hours)
+small game
+
+Day 5: Data Structure
+stack data structure (first in last out) 2hrs
+que (first in first out) 2hrs
+dictionary 1hr
+linked list 1hr
+tree 1hr
+
+Day 6:
+Object Oriented Programming 8 hours
+object
+class (declaration, creating attributes etc.)
+constructor
+method
+inheritance
+encapsulation
+polymorphism
+
+Day 7:
+Algorithm
+search algorithm
+linear search algorithm
+binary search algorithm
+recursion algorithm
+time complexity
+sort algorithm (learn few)
+    linear sort
+    merge sort
+    insertion sort
+    selection sort
+
+Week 2
+
+Day 1:
+git
+github
+
+
+
+
+
+
